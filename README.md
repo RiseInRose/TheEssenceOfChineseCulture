@@ -15,6 +15,7 @@
 | 排盘 | |
 | https://github.com/axbug/8Char-H5 | 基于UniAPP开发的八字排盘工具，只有前端，但完成度很高，值得推荐|
 | https://github.com/bopo/najia| 基于python开发的纳甲六爻排盘项目|
+| [Bazi Diff 排盘复算](https://github.com/chilayt/bazi-midnight-case/blob/main/README.zh-Hans.md) | 免费免登录的浏览器排盘，支持按粗略时段比较四柱。[打开全天虚构算例](https://bazi-diff.pages.dev/chart/zh-hans/?time=range&example=date&utm_source=culture_projects&utm_medium=community&utm_campaign=date_example#compare)，查看哪些柱保持一致；仓库提供复算资料和脚本。 |
 | 知识库 | |
 | https://github.com/TVB-JINPAIJIANZHI/bazifuzugongju | 包含一些书籍 |
 | https://www.131.com.tw/word/b3_1_9.htm | 论八字 在线版 |
